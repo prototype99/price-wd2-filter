@@ -1,0 +1,41 @@
+WD2 is equivalent to:
+- a1000
+- a1001
+- a2004
+- a2024 pt
+- a2054 me
+- a2064 pt
+- a2101
+- a2131pt
+- a2200
+- a2201
+- a2204
+- a2206 x
+- a2231 pt
+- a2231pt
+- a2234 pt
+- a2234pt
+- a2251 me f
+- a2251me
+- a2254 me
+- a2254me
+- a2504
+- a2534 pt
+- a2534pt
+- a2554 me
+- a2554me
+- a2901 f
+- k2301
+- mv2
+- nt27/1
+- vc6100
+- vc6200
+- vc6300
+- wd2 premium
+- wd2.200
+- wd2.240
+- wd3.200
+- wd3.300 m
+- wd3.500 p
+- wd3.540 p
+- wd3.600 mp
